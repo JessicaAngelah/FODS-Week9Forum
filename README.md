@@ -9,4 +9,4 @@
 ##### Hierarchical clustering organizes data into a tree of clusters. It's flexible for different cluster shapes and can show relationships between clusters in a tree diagram.
 #### d. BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies):
 ##### BIRCH is good for large datasets. It builds a tree of clusters gradually and works well with different types of clusters and high-dimensional data.
-![image](images/img1.png)
+![image](img/img1.png)
